@@ -1,0 +1,12 @@
+
+avec le NPM Nodemon on peut surveiller les modifications sur les fichiers de notre app
+
+Plus d'infos :
+https://github.com/remy/nodemon
+
+Installation global 
+    npm install -g nodemon
+
+Usage
+    nodemon ./server.js localhost 8080
+
